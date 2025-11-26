@@ -937,6 +937,45 @@
 		)
 		(uuid "a55b815d-078b-4657-b3f0-dc9151f33dbe")
 	)
+	(text "26/11/2025"
+		(exclude_from_sim no)
+		(at 208.28 193.294 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.3175)
+				(color 132 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "b13df591-e524-4225-b03d-244a0adc48bd")
+	)
+	(text "Instrumentation Amplifier Circuit"
+		(exclude_from_sim no)
+		(at 188.214 189.738 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.3175)
+				(color 132 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "ce097b94-369a-44fc-be57-9ead52c5b1c8")
+	)
+	(text "Conor Farrell \nBreandán Gillanders"
+		(exclude_from_sim no)
+		(at 180.594 173.736 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.3175)
+				(color 132 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "f49b32d9-72d1-4913-b3a0-511d183ea81e")
+	)
 	(text "Single-Ended to Differential\n"
 		(exclude_from_sim no)
 		(at 56.896 109.982 0)
